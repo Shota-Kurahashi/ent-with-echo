@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+# air
+
+vendor/
+tmp/
+
+# IDE specific files
+.vscode
+.idea
+
+# build output
+air
