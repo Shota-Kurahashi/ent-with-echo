@@ -31,3 +31,7 @@ tmp/
 
 # build output
 air
+
+# envarionment
+
+.env
